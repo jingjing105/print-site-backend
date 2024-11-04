@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Firebase credentials or service account keys
+credentials/serviceAccountKey.json
+
+# Uploads folder for user-uploaded content
+uploads/
+
+# Firebase configuration files (optional)
+.firebase.json
+.firebaserc
